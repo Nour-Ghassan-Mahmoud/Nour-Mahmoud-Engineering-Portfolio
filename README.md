@@ -36,7 +36,7 @@ An individually prepared practical report examining metallic powder feedstocks a
 - Density and powder-packing measurements.
 - Interpretation of powder characteristics in relation to potential AM processing routes.
 
-**Project document:** [View the individual project report (PDF)](01-Metal-Powder-Characterization/Metal_Powder_Characterization.pdf)
+**Project document:** [View the individual project report (PDF)](Nour_Mahmoud_Metal_Powder_Characterization_Portfolio.pdf)
 
 ## Current MSc Research
 
